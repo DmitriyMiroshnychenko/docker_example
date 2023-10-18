@@ -1,1 +1,2 @@
-# docker_example
+# Docker
+Repository for the Docker course
